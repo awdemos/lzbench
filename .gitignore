@@ -40,3 +40,8 @@ lzbench
 *~
 
 todo.txt
+
+# Desloppify artifacts
+.desloppify/
+scorecard.png
+
